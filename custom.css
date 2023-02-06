@@ -12,8 +12,13 @@
 }
 
 .ld-custom-button-container {
-    background-color: #2665d6;
+    background-color: #001234;
+    border-radius: 6px;
     color: #fff;
+}
+
+.ld-custom-button-container:hover {
+    transform: none;
 }
 
 .ld-custom-button {
@@ -21,9 +26,9 @@
 }
 
 .ld-custom-background-layer {
-    background: #b92b27;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #1565C0, #b92b27);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #1565C0, #b92b27); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #42275a;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #734b6d, #42275a);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #734b6d, #42275a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .icon {

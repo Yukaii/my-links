@@ -4,14 +4,19 @@
   "image_url": "https://raw.githubusercontent.com/Yukaii/my-links/main/d86a9d9f-fc37-4cac-940f-ad48d50d570d_yukai_made_inabyssgameartconceptmodernfuturisticcyberpunk.png",
   "links": [
     {
+      "title": "GitHub",
+      "url": "https://bit.ly/3YakVCo",
+      "icon": "github"
+    },
+    {
       "title": "Twitter",
       "url": "https://bit.ly/3juhEPp",
       "icon": "twitter"
     },
     {
-      "title": "GitHub",
-      "url": "https://bit.ly/3YakVCo",
-      "icon": "github"
+      "title": "Facebook",
+      "url": "https://bit.ly/3l7k8Dz",
+      "icon": "facebook"
     },
     {
       "title": "My Blog",

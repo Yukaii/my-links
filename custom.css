@@ -2,6 +2,20 @@
     color: #fefefe;
 }
 
+footer {
+    margin-top: 20px;
+}
+
+footer .ld-custom-name {
+    font-size: 14px;
+    text-decoration: underline;
+    font-family: monospace;
+}
+
+footer .ld-custom-name:hover {
+    color: #c7c7c7;
+}
+
 .ld-custom-name:visited {
     color: #fefefe;
 }

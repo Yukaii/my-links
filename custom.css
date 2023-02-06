@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+
+body {
+    font-family: 'IBM Plex Mono', monospace;
+}
 
 .ld-custom-name {
     color: #fefefe;
@@ -15,10 +20,12 @@
     background-color: #001234;
     border-radius: 6px;
     color: #fff;
+    transition: background ease-in-out 200ms;    
 }
 
 .ld-custom-button-container:hover {
     transform: none;
+    background-color: #01102e69;
 }
 
 .ld-custom-button {

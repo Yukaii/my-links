@@ -27,6 +27,16 @@
       "title": "My Blog",
       "url": "https://bit.ly/3jzcfGK",
       "icon": "home"
+    },
+    {
+      "title": "Twitch (Mainly for KartRider Drift and do live coding session sometimes)",
+      "url": "https://bit.ly/3JMJzEJ",
+      "icon": "twitch"
+    },
+    {
+      "tite": "Insgatram",
+      "url": "https://bit.ly/3JLaTDm",
+      "icon": "instagram"
     }
   ]
 }
